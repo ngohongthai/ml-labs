@@ -33,6 +33,21 @@ MANIFEST
 *.manifest
 *.spec
 
+# Pyre type checker
+.pyre/
+.idea/
+.DS_Store
+data/
+labs/lab12/people_wiki.csv
+labs/c1-ml-basic/lab12/people_wiki.csv
+classification/dataset/amazon_baby.csv
+classification/datasets/amazon_baby.csv
+classification/lab-9-decision-tree/datasets/lending-club-data.csv
+classification/lab-11-feature-selection-with-DT/dataset/dataset_2.csv
+classification/lab-11-feature-selection-with-DT/dataset/houseprice.csv
+classification/lab-13-undersampling/car_eval_34/*
+
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
@@ -128,4 +143,3 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
-*.csv
