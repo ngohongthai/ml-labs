@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+  - python=3.10.4
   - appnope=0.1.2
   - asttokens=2.0.5
   - backcall=0.2.0
@@ -78,7 +79,6 @@ dependencies:
   - pure_eval=0.2.2
   - pygments=2.11.2
   - pyparsing=3.0.9
-  - python=3.10.4
   - python-dateutil=2.8.2
   - python_abi=3.10
   - pytz=2022.1
@@ -103,4 +103,3 @@ dependencies:
   - zeromq=4.3.4
   - zlib=1.2.12
   - zstd=1.5.2
-prefix: /Users/ngothai/opt/miniconda3/envs/sklearn-env
