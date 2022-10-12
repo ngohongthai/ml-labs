@@ -143,3 +143,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+ml-deeplearning/lab_5_Mạng nơ-ron tích chập trong TensorFlow/pizza_steak/
